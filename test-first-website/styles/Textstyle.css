@@ -1,0 +1,45 @@
+
+h1 {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #5f84b0;
+}
+
+p {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #9669ab;
+}
+
+li {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  border: 1px solid black;
+  margin-bottom: 5px;
+  color:#5f84b0;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  padding-top: 0;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px #000000;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+transform: rotate(180deg);
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  transform: rotate(180deg);
+
+}
